@@ -88,9 +88,9 @@
   },
   "custom_category": [
     {
-      "name": "动漫",
-      "type": "movie",
-      "query": "动漫"
+      "name": "国漫",
+      "type": "tv",
+      "query": "国漫"
     }
   ]
 }
